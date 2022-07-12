@@ -5,5 +5,5 @@ We constructed a large-scale few-shot classification dataset named FSC-20(few-sh
 We propose a feature-aware network (FaNet) for a few shot defect classification, which can effectively distinguish new classes with a small number of labeled samples.
 
 # Download the dataset and code
-The dataset and code are provided for non-commercial use only. By downloading the dataset and code, you accept the license agreement. Please send the signed license agreement to songkc@me.neu.edu.cn for a download link.
+The dataset and code are provided for non-commercial use only. By downloading the dataset and code, you accept the license agreement. Please send the signed license agreement to  vdt2048@163.com for a download link.
 
