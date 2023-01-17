@@ -11,7 +11,7 @@ We propose a feature-aware network (FaNet) for a few shot defect classification,
 
 
 # Download the dataset and code
-The dataset and code are available at:链接：https://pan.baidu.com/s/1k_ClBD9DSKUxCtcQU3qM3Q?pwd=3ewk 
+The dataset and code are available at:https://pan.baidu.com/s/1k_ClBD9DSKUxCtcQU3qM3Q?pwd=3ewk 
 
 # Paper
 https://www.sciencedirect.com/science/article/abs/pii/S0263224123000106
