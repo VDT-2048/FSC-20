@@ -11,5 +11,9 @@ We propose a feature-aware network (FaNet) for a few shot defect classification,
 
 
 # Download the dataset and code
-The dataset and code are provided for non-commercial use only. By downloading the dataset and code, you accept the license agreement. Please send the signed license agreement to  vdt2048@163.com for a download link.
+The dataset and code are available at:链接：https://pan.baidu.com/s/1k_ClBD9DSKUxCtcQU3qM3Q?pwd=3ewk 
 
+# Paper
+https://www.sciencedirect.com/science/article/abs/pii/S0263224123000106
+# Citation
+Zhao W, Song K, Wang Y, et al. FaNet: Feature-aware Network for Few Shot Classification of Strip Steel Surface Defects[J]. Measurement, 2023: 112446.
