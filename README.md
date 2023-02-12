@@ -17,3 +17,17 @@ The dataset and code are available at:https://pan.baidu.com/s/1k_ClBD9DSKUxCtcQU
 https://www.sciencedirect.com/science/article/abs/pii/S0263224123000106
 # Citation
 Zhao W, Song K, Wang Y, et al. FaNet: Feature-aware Network for Few Shot Classification of Strip Steel Surface Defects[J]. Measurement, 2023: 112446.
+
+
+# Related work of few-shot classification for surface defects
+
+[1] MSD-Cls dataset & GTnet 
+The dataset and code are available at:https://github.com/successhaha/GTnet
+
+# Few-shot surface defect segmentation
+
+[1] TGRNet： Triplet-graph reasoning network for few-shot metal generic surface defect segmentation
+The dataset and code are available at:https://pan.baidu.com/s/1dEai3yXrFOsuWcQ5mkE7_A?pwd=qzo6
+
+[2] FSSD-12 dataset  & CPANet
+The dataset and code are available at:https://github.com/VDT-2048/CPANet
