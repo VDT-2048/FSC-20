@@ -15,7 +15,11 @@ The dataset and code are available at:https://pan.baidu.com/s/1k_ClBD9DSKUxCtcQU
 
 # Paper
 https://www.sciencedirect.com/science/article/abs/pii/S0263224123000106
+
+[2023-FaNet Feature-aware network for few shot classification of strip steel surface defects.pdf](https://github.com/VDT-2048/FSC-20/files/13700232/2023-FaNet.Feature-aware.network.for.few.shot.classification.of.strip.steel.surface.defects.pdf)
+
 # Citation
+
 Zhao W, Song K, Wang Y, et al. FaNet: Feature-aware Network for Few Shot Classification of Strip Steel Surface Defects[J]. Measurement, 2023: 112446.
 
 
